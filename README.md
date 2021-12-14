@@ -1,9 +1,13 @@
 # Music-Player-using-Emotion-detection
 Youtube music player using Emotion detection model
-## *1. Output*
+## *1. Output :zipper_mouth_face:*
+- Emotion detection using open cv and model.
+![S![Screenshot (28)](https://user-images.githubusercontent.com/94052139/146035422-6a8af7b7-66b1-4a34-be9d-ab60604b042e.png)
+- Youtube song recommended with the help of emotion detected by model
+![Screenshot (28)](https://user-images.githubusercontent.com/94052139/146035507-4934a6c4-3fba-4491-a107-98cb8438412d.png)
 
-
-## *2. Description*
+Couldn't record as the default recorder of windows 10 was only recording a single application :disappointed_relieved:.
+## *2. Description :thinking:*
   - I created Deep Learning Neural Network model for detecting emotion.<br/> 
   - Used CNN for the model and then used Open Cv for emotion detection on live webcam feed.
   - Used Cosine Similarity to find out distance of the 5 closest vectors from the input movie vector in this project.<br/>
@@ -25,8 +29,8 @@ Youtube music player using Emotion detection model
  ![Logo](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
  ## *5. IDE*
  ![Logo](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
- ## *5. Future Improvements*
+ ## *5. Future Improvements :raised_eyebrow:*
  The model accuracy will be improved by increasing epochs and reducing batch size(it took me 10 hrs to train the model<br/>
  and expecting the improvements to take even longer).
- ## *6. Contributers*
+ ## *6. Contributers :nerd_face:*
   - Ayush Roy<br/>
