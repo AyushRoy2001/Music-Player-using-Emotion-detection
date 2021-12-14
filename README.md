@@ -1,9 +1,10 @@
 # Music-Player-using-Emotion-detection
 Youtube music player using Emotion detection model
 ## *1. Output :zipper_mouth_face:*
-- Emotion detection using open cv and model.
-![S![Screenshot (28)](https://user-images.githubusercontent.com/94052139/146035422-6a8af7b7-66b1-4a34-be9d-ab60604b042e.png)
-- Youtube song recommended with the help of emotion detected by model
+- Emotion detection using open cv and model.<br/><br/>
+![Screenshot (29)](https://user-images.githubusercontent.com/94052139/146066530-9af4c75d-0d19-4268-a675-c6b6be4856e0.png)<br/><br/>
+
+- Youtube song recommended with the help of emotion detected by model.<br/><br/>
 ![Screenshot (28)](https://user-images.githubusercontent.com/94052139/146035507-4934a6c4-3fba-4491-a107-98cb8438412d.png)
 
 Couldn't record as the default recorder of windows 10 was only recording a single application :disappointed_relieved:.
